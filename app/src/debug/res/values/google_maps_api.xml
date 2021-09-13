@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=9A:FC:14:2E:1C:45:B0:02:06:BB:A2:5C:74:46:D7:DC:30:D6:73:1B%3Bcom.android.kumbar.activities
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.android.kumbar.activities
+
+    SHA-1 certificate fingerprint:
+    9A:FC:14:2E:1C:45:B0:02:06:BB:A2:5C:74:46:D7:DC:30:D6:73:1B
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyD5JLzBI_maTgDUAdRcFbj2iGhAUspuTqI</string>
+</resources>

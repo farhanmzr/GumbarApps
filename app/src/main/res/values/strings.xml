@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Gumbar</string>
+    <string name="illustrasi_onboarding">Illustrasi Onboarding</string>
+    <string name="mountain">Mountain</string>
+    <string name="trips">Trips</string>
+    <string name="next">Next</string>
+    <string name="start_an_immersive_hiking_experience_and_exploring_beautiful_places_around_your_area_today">Start an immersive hiking experience and exploring beautiful places around your area today!</string>
+    <string name="get_started">Get Started</string>
+    <string name="image_profile">Image Profile</string>
+    <string name="hi_dev_io">Hi dev.io,</string>
+    <string name="lets_find_an_adventure">Lets find an adventure</string>
+    <string name="image_header">Image Header</string>
+    <string name="mountain_location">Mountain Location</string>
+    <string name="central_java">Central Java</string>
+    <string name="east_java">East Java</string>
+    <string name="west_java">West Java</string>
+    <string name="outside_of_java">Outside Java</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="image_mountain">Image Mountain</string>
+    <string name="image_back">Image Back</string>
+    <string name="image_location">Image Location</string>
+    <string name="hiking_trails">Hiking Trails</string>
+    <string name="mountain_information">Mountain Information</string>
+    <string name="mountain_equipment">Mountain Equipment</string>
+    <string name="mountain_tips">Mountain Tips</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hiking_tips_and_tricks_for_beginners">Hiking Tips and Tricks for Beginners</string>
+    <string name="berada_di_kawasan_lingkaran_api_pasifik_indonesia_memiliki_127_gunung_berapi_yang_masih_aktif_hal_ini_membuat_indonesia_rawan_bencana_alam_seperti_letusan_gunung_api_atau_tsunami">Berada di kawasan Lingkaran Api Pasifik, Indonesia memiliki 127 gunung berapi yang masih aktif. Hal ini membuat Indonesia rawan bencana alam, seperti letusan gunung api atau tsunami.</string>
+    <string name="_10_unique_facts_about_krakatoa_as_the_best_volcano_in_the_world">10 Unique Facts about Krakatoa as the Best Volcano in the World</string>
+    <string name="news">News</string>
+    <string name="tips">Tips</string>
+    <string name="in_this_guide_you_will_find_everything_you_need_to_start_hiking_from_packing_essentials_to_how_to_prepare_for_a_day_hike_with_a_little_planning_you_can_enjoy_a_safe_comfortable_and_pleasurable_hike">In this guide, you will find everything you need to start hiking, from packing essentials to how to prepare for a day hike. With a little planning, you can enjoy a safe, comfortable and pleasurable hike.</string>
+    <string name="gumbar_information">Gumbar Information</string>
+    <string name="see_all">See All</string>
+</resources>

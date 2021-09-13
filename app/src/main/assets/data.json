@@ -1,0 +1,343 @@
+{
+  "gunung": [
+    {
+      "lokasi": "East Java",
+      "nama_gunung": [
+        {
+          "nama": "Argopuro Mountain",
+          "image_gunung": "https://cdn.shopify.com/s/files/1/2216/6909/products/Argo_3_1400x.jpg?v=1582700117",
+          "lokasi": "East Java",
+          "lat": -7.9640652,
+          "lon": 113.5654448,
+          "altitude": "3088 mdpl",
+          "deskripsi": "Mount Argopuro is a volcano located in East Java, precisely on the border of Probolinggo, Situbondo and Bondowoso regencies. This mountain is no longer active. Mount Argopuro has an altitude of 3,088 meters above sea level. Mount Argopuro is included in the Iyang Mountains area in East Java. Geographically, Mount Argopuro stands between two mountains that have a special rank in Indonesia, namely Mount Semeru (the highest peak in Java) and Mount Raung (the hardest track). If Semeru and Raung are ranked then Argopuro is also ranked, Mount Argopuro is ranked as the mountain with the longest climbing route in Java.",
+          "jalur_pendakian": "Bremi Line (Probolinggo)\nBaderan Line",
+          "info_gunung": "Name: Mount Argopuro\nLocation: Probolinggo\nAltitude: 3088 mdpl\nNatural Spots: Savanna, savanna, lake\nSource: Living Park Lake\nPeak: Rengganis Peak, Arca Peak, Argopoera Peak"
+        },
+        {
+          "nama": "Arjuno Mountain",
+          "image_gunung": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1602546983/ks99wv5evwg45oawck1a.jpg",
+          "lokasi": "East Java",
+          "lat": -7.763405,
+          "lon": 112.5861372,
+          "altitude": "3339 mdpl",
+          "deskripsi": "Mount Arjuno or “Arjuna” is a volcano located in Malang, East Java. This mountain is a mountain that has a twin named Mount Welirang. Because the peak of Mount Arjuno is adjacent to the peak of Mount Welirang, many people refer to the two twin mountains as Mount Arjuno -Welirang.\nMount Arjuno is included in the Raden Soeryo Forest Park area. On this mountain there is also a quite interesting tourist attraction, namely the Grandpa Bodo waterfall. In addition, the mountain complex of Mount Arjuno-Welirang also has very beautiful natural resources such as savanna, valleys , various kinds of flowers, fauna, and water sources.\nLike most mountains in Java, Mount Arjuno is also thick with myths. Mount Arjuno is often used as a place for people to meditate and other rituals to seek peace. Along the way to the top of Mount Arjuno, you will find many heritage sites. history in the form of stones or statues of the former kingdom of Majapahit.",
+          "jalur_pendakian": "Lawang Path (East),\nTretes (North),\nBatu (West),\nKarangploso(South),\nSumberawan,\nPurwosari.",
+          "info_gunung": "Name: Mount Arjuno\nAltitude: 3339 mdpl\nLocation: Malang, East Java.\nType: Strato volcano\nLast eruption: 1952\nPeak: Peak Arjuno, Peak Ogal-agil"
+        },
+        {
+          "nama": "Baluran Mountain",
+          "image_gunung": "http://www.merbabu.com/gunung/baluran/gunung_baluran_atas.jpg",
+          "lokasi": "East Java",
+          "lat": -7.8457171,
+          "lon": 114.3593964,
+          "altitude": "1247 mdpl",
+          "deskripsi": "Mount Baluran is a small mountain that is included in the Baluran National Park area, Situbondo, East Java. This mountain is arguably the mountain that stands at the easternmost tip of the island of Java. Mount Baluran has a height of 1,247 meters above sea level.\nThis mountain is no longer active. Its crater walls border the vast caldera which is 600 meters deep. There are allegations in the higher eastern part of this mountain has erupted and threw large rocks out. The central part of the mountain is divided to form a deep caldera with a condensed crater recess at the base.",
+          "jalur_pendakian": "Karangtekok\nWonorejo",
+          "info_gunung": "Name: Mount Baluran\nLocation: Situbondo\nAltitude: 1247 mdpl\nType: Non-Active Mountain"
+        },
+        {
+          "nama": "Bromo Mountain",
+          "image_gunung": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/12/28/810982021.jpg",
+          "lokasi": "East Java",
+          "lat": -7.9423521,
+          "lon": 112.9488848,
+          "altitude": "2392 mdpl",
+          "deskripsi": "Mount Bromo is an active volcano located in East Java, precisely in Probolinggo, Pasuruan, Lumajang, and Malang Regencies. Mount Bromo has a height of 2,392 meters above sea level.\nThe history of the formation of Mount Bromo is started from the eruption that split Mount Tengger (4000 meters above sea level). As a result of the eruption a mountain complex was formed which includes the Sea of ​​Sand, Mount Widodaren, Mount Watangan, Mount Kursi, Mount Batok and Mount Bromo. In addition to scientific explanations, the formation or history of Mount Bromo is also very thick with folklore.",
+          "jalur_pendakian": "Tosari Village – Wonokitri\nCemoro Lawang – Ngadisari\nJemplang – Ngadas.",
+          "info_gunung": "Name: Mount Bromo\nAltitude: 2392 mdpl\nLocation: Probolinggo, Pasuruan, Lumajang, Malang\nType: Active volcano"
+        },
+        {
+          "nama": "Ijen Mountain",
+          "image_gunung": "https://www.hargatiket.net/wp-content/uploads/2018/12/Harga-Tiket-Masuk-Kawah-Ijen.jpg",
+          "lokasi": "East Java",
+          "lat": -8.059798,
+          "lon": 114.2390776,
+          "altitude": "2443 mdpl",
+          "deskripsi": "Mount Ijen is an active volcano located in Banyuwangi district, East Java. This mountain has been recorded to have erupted four times, namely in 1796, 1817, 1913, and 1936. Mount Ijen has a height of 2,443 meters above sea level. Mount Ijen is most famous for its crater. Ijen Crater is the largest crater lake in the world. The crater has a depth of 200 meters and 5466 hectares and has a height of 2,368 meters above sea level and the management of the Ijen crater is included in the Ijen Tourism Park Nature Reserve, Bondowoso. If we want to see the eternal fire of Mount Ijen, we must be ready to climb early in the morning. This is because the blue fire is only visible in the early morning hours.",
+          "jalur_pendakian": "Banyuwangi\nBondowoso",
+          "info_gunung": "Name: Mount Ijen\nAltitude: 2443 mdpl\nLocation: Banyuwangi\nLast eruption: 1999\nType: Active Mountain\nManager: Ijen Tourism Park Nature Reserve"
+        },
+        {
+          "nama": "Kawi Mountain",
+          "image_gunung": "https://cdn-2.tstatic.net/tribunnewswiki/foto/bank/images/kawidd.jpg",
+          "lokasi": "East Java",
+          "lat": -7.956539,
+          "lon": 112.4627492,
+          "altitude": "2551 mdpl",
+          "deskripsi": "Gunung Kawi is a volcano located in Malang, precisely in Wonosari Village, Malang, East Java. This mountain has a height of 2,551 meters above sea level. Mount Kawi has twins such as Mount Arjuno and Mount Welirang.\nMount Kawi is used as a tourist attraction. At the foot of Mount Kawi, there are many historical heritage sites that smell like Chinese. Along the way we will find buildings with typical Chinese architecture, where there is a temple / pagoda where to pray or perform typical Confucian rituals. Along the way there are also many inns, be it hotels, inns, or even people's houses that can also be rented to be used as a place to stay.",
+          "jalur_pendakian": "Pesarean Kawi Mountain\n Senggrong tea plantation",
+          "info_gunung": "Name: Gunung Kawi\nAltitude: 2551 mdpl\nLocation: Malang Regency\nType: Volcano"
+        },
+        {
+          "nama": "Kelud Mountain",
+          "image_gunung": "https://kelloggsnyc.com/wp-content/uploads/2020/05/Waduh-Warna-Kawah-Kelud-Jadi-Coklat-Kekuningan-Benarkah-Statusnya-Jadi-Siaga-1.jpg",
+          "lokasi": "East Java",
+          "lat": -7.9335129,
+          "lon": 112.3105492,
+          "altitude": "1731 mdpl",
+          "deskripsi": "Mount Kelud is an active volcano located on the border between Kediri Regency, Blitar Regency and Malang Regency. Mount Kelud has a height of 1,731 meters above sea level. Although it is a small mountain, this mountain can erupt at any time and its eruptions can reach Bali and Jakarta.\nMount Kelud has erupted 30 times since 1000 AD. And the last eruption was in 2014. The eruption in 2014 was very violent. It is even stated that the one-day eruption of Mount Kelud in 2014 is equivalent to the eruption of Mount Merapi in 2010 in a month.\nThe peak of Kelud is the highest, positioned slightly northeast of the crater. Other peaks are Gajahmungkur Peak on the west side and Sumbing Peak on the south side.",
+          "jalur_pendakian": "Tulungrejo Blitar",
+          "info_gunung": "Name: Mount Kelud\nHeight: 1731 mdpl\nLocation: Kediri Regency and Blitar Regency\nType: Active Mountain"
+        },
+        {
+          "nama": "Raung Mountain",
+          "image_gunung": "https://cdn.idntimes.com/content-images/community/2020/01/75280948-568637497029703-8193780007952183458-n-27c81bad41b1602fb7dfc57b267f3b8e.jpg",
+          "lokasi": "East Java",
+          "lat": -8.1285896,
+          "lon": 114.044153,
+          "altitude": "3344 mdpl",
+          "deskripsi": "Mount Raung is a mountain located in the mountainous area of ​​Ijen, East Java, precisely in three districts namely Banyuwangi, Jember and Bondowoso Regencies. Mount Raung has an altitude of 3344 meters above sea level (meters above sea level). Mount Raung is a volcano that has a unique caldera and is different from other volcanoes. The ellipse-shaped caldera with a depth of about 500 meters is always smoky and often belches fire and there is a cone about 100 meters high. The biggest eruption of Mount Raung occurred in 1638.\nUntil now this mountain tends to be stable. Mount Raung is famous for having the most difficult terrain in Java. This is because to reach the true peak of Mount Raung requires special equipment to climb such as ropes and so on.",
+          "jalur_pendakian": "Waringin (Bondowoso)\nKalibaru (Banyuwangi)",
+          "info_gunung": "Name: Mount Raung\nAltitude: 3344 mdpl\nLocation: Banyuwangi, Jember and Bondowoso\nType: Volcano\nPeak: Peak 17, Peak Toothpick and Peak Sejati Raung"
+        },
+        {
+          "nama": "Semeru Mountain",
+          "image_gunung": "https://images.bisnis-cdn.com/posts/2019/08/12/1135593/semeru21.jpg",
+          "lokasi": "East Java",
+          "lat": -8.1091822,
+          "lon": 112.9204207,
+          "altitude": "3676 mdpl",
+          "deskripsi": "Mount Semeru is the highest volcano on the island of Java and the third highest in Indonesia after Mount Kerinci (1) and Mount Rinjani (2). The highest peak of Mount Semeru, named Mahameru, has a height of 3,676 meters above sea level and has a crater that is still emitting smoke called Kawah Jonggring Saloko. Mount Semeru is located in Malang and part of Lumajang. This mountain is also included in the Tengger mountain group and is a complex with Mount Bromo. The Tengger Mountains are very large mountains in which there are many small mountains and the largest mountain is Mount Semeru.",
+          "jalur_pendakian": "Ranu Pani\nAyek-Ayek",
+          "info_gunung": "Name: Mount Semeru\nAltitude: 3676 mdpl\nManager: TNBTS (Bromo Tengger Semeru National Park)\nLake (ranu): Ranu Pani, Ranu Regulo, Ranu Kumbolo and Ranu Darungan.\nCrater: Jonggring Saloka Crater\nPeak: Mahameru\nWebsite official: http://www.bromotenggersemeru.org"
+        }
+      ]
+    },
+    {
+      "lokasi": "Central Java",
+      "nama_gunung": [
+        {
+          "nama": "Lawu Mountain",
+          "image_gunung": "https://asset.kompas.com/crops/heSaiwMi47mNt9IBKYLGgR3lgMc=/0x0:780x520/750x500/data/photo/2019/06/21/3507694318.jpg",
+          "lokasi": "Central Java",
+          "lat": -7.6276241,
+          "lon": 111.193658,
+          "altitude": "3265 mdpl",
+          "deskripsi": "Mount Lawu is a mountain located on the border of the provinces of Central Java and East Java, precisely in the Tawangmangu and Cemorosewu areas. Mount Lawu is a dead or resting volcano. This mountain was recorded to have erupted in 1885. Mount Lawu is in great demand by climbers because of its exotic scenery and also has many good spots such as water sources, craters, savannas, hills, fog, and one of the most interesting is the existence of a resident's house alias residential area at its peak. And the settlement is claimed to be the highest settlement in Java.\nMount Lawu has three peaks, namely the peaks of Hargo Dalem, Hargo Dumiling and Hargo Dumilah. The highest peak of Hargo Dumilah is at an altitude of 3,265 meters above sea level.",
+          "jalur_pendakian": "Cemoro Kandang\nCemoro Sewu",
+          "info_gunung": "Name: Mount Lawu\nAltitude: 3265 mdpl\nLocation: Magetan, Tawangmangu, Cemorosewu\nType: Stratovolcano volcano\nLast eruption: 1885"
+        },
+        {
+          "nama": "Merapi Mountain",
+          "image_gunung": "https://mmc.tirto.id/image/2021/05/06/antarafoto-aktivitas-gunung-merapi-060521-afa-4_ratio-16x9.jpg",
+          "lokasi": "Central Java",
+          "lat": -7.540626,
+          "lon": 110.4427796,
+          "altitude": "2930 mdpl",
+          "deskripsi": "Mount Merapi is the most active volcano in Indonesia. Mount Merapi is categorized as a strato-type volcano or is still active. It is recorded in modern records that Mount Merapi erupts or erupts every 2-5 years. The year 2010 is proof of how violent the eruption of Mount Merapi has been in the last ten years. Mount Merapi has been recorded to have erupted 68 times since 1548. Not only is Mount Merapi included in the category of the most active volcano, it is also included in the category of the most dangerous volcano. Because if this mountain erupts, the consequences will be very fatal considering that the surrounding Mount Merapi is a dense settlement. From the west side there is Magelang district, to the south there is Sleman district and the city of Yogyakarta, from the east side there is Boyolali district, and the southeast side is Klaten district.",
+          "jalur_pendakian": "Selo line\nKinaharjo",
+          "info_gunung": "Name: Mount Merapi\nAltitude: 2930 mdpl\nLocation: Klaten, Boyolali, Magelang, Sleman,Yogyakarta.\nManagement: Mount Merapi National Park\nType: Strato volcano\nLast eruption: 2010\nSource of water: on the Selo hiking trail\nRiver : Serang, Cemoro, Pepe and Gandul\nPeak: peak of Merapi\nWebsite: http://www.tngunungmerapi.org"
+        },
+        {
+          "nama": "Merbabu Mountain",
+          "image_gunung": "https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2018/10/merbabu-.jpg",
+          "lokasi": "Central Java",
+          "lat": -7.4558213,
+          "lon": 110.4379029,
+          "altitude": "3142 mdpl",
+          "deskripsi": "Mount Merbabu is one of the most beautiful mountains in the province of Central Java, precisely in the districts of Magelang (West), Boyolali (East), Salatiga (South), and Semarang (North). The Merbabu mountain climbing route is perfect for novice climbers. From the start of the flat, bumpy, slightly uphill road, and uphill to the very uphill path on the Merbabu mountain climbing route. Plus homogeneous forests, savannas, and grassy hills adorn every trip.\nMount Merbabu is a mountain that was once active. It was recorded that it erupted in 1560 and 1797. Therefore, Mount Merbabu is also called a sleeping mountain because it has not erupted anymore. The height of Mount Merbabu is 3,142 meters above sea level or about 10,630 feet. For this height, Mount Merbabu is classified as a mountain with an above average height. But for novice climbers, don't worry because the height will be rewarded with the view there.",
+          "jalur_pendakian": "Selo (from Boyolali)\nKopeng (from Salatiga)\nWekas (from Magelang)",
+          "info_gunung": "Name: Mount Merbabu\nAltitude: 3142 mdpl\nLocation: Magelang, Semarang, Boyolali, Salatiga, Central Java\nLast eruption: 1560 and 1797\nSource of water: Wekas ​​route (Post 2)\nPeak: Syarif peak, Kenteng Songo peak /Tangulation"
+        },
+        {
+          "nama": "Prau Mountain",
+          "image_gunung": "https://genpi.id/wp-content/uploads/2020/08/WhatsApp-Image-2020-08-23-at-6.17.05-PM-1024x575.jpeg",
+          "lokasi": "Central Java",
+          "lat": -7.1970403,
+          "lon": 109.9291006,
+          "altitude": "2565 mdpl",
+          "deskripsi": "Mount Prau is a small mountain that has become the most favorite destination for climbers in Indonesia, especially the island of Java since 2014. The peak of Mount Prau is claimed to have the best place in Southeast Asia to see the sunrise. Mount Prau is located in the Dieng plateau, Wonosobo, Central Java. Since 2014 Mount Prau has been visited by many climbers who want to see firsthand the appearance of the sunrise from Mount Prau.",
+          "jalur_pendakian": "Patak Banteng",
+          "info_gunung": "Name: Mount Prau\nAltitude: 2565 mdpl\nLocation: Wonosobo, Temanggung, Central Java\nType: Small mountain not fire"
+        },
+        {
+          "nama": "Sindoro Mountain",
+          "image_gunung": "https://mytrip123.com/wp-content/uploads/2016/03/Sindoro.jpg",
+          "lokasi": "Central Java",
+          "lat": -7.3014343,
+          "lon": 109.9926929,
+          "altitude": "3136 mdpl",
+          "deskripsi": "Mount Sindoro is also known as Mount Sindara or Sundoro or Sendoro. Mount Sindoro is included in the category of a stratovolcano mountain aka a sleeping mountain and can erupt at any time. The last eruption was in 1906 and since then there has only been an increase in activity. Mount Sindoro is a mountain that is sensitive to natural conditions. Not infrequently this mountain is closed for climbing due to unfriendly weather. Besides being vulnerable to weather, Mount Sindoro is also a sacred mountain like Mount Lawu. People at the foot of the mountain often close the climb to the top due to certain factors related to tradition, especially if the 1st Syuro.\nMount Sindoro is located in Wonosobo (West) and Temanggung (East) districts. Like Mount Merapi-Merbabu, Mount Sindoro also has a relative, Mount Sumbing. There is something unique about these two twin mountains, which is a legendary sight.",
+          "jalur_pendakian": "Kledung (Temanggung)\nSikatok/Sigedang-Tambi (Wonosobo) fastest\nSibajak (Temanggung)\nJlumprit (Katekan village)",
+          "info_gunung": "Name: Mount Sindoro\nAltitude: 3136 mdpl\nLocation: Wonosobo, Temanggung, Central Java\nType: Stratovolcano volcano\nLast eruption: 1906"
+        },
+        {
+          "nama": "Slamet Mountain",
+          "image_gunung": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Gunung_Slamet_dari_Kr_Salam.jpg/1200px-Gunung_Slamet_dari_Kr_Salam.jpg",
+          "lokasi": "Central Java",
+          "lat": -7.2407235,
+          "lon": 109.2108887,
+          "altitude": "3428 mdpl",
+          "deskripsi": "Mount Slamet is the highest mountain in Central Java and the second highest mountain on the island of Java after Mount Semeru. Mount Slamet has a height of 3,428 meters above sea level. Mount Slamet is an active volcano. This mountain is also said to be a mountain that divides the island of Java because it stands in 5 districts namely Brebes Regency, Banyumas, Purbalingga, Tegal Regency, and Pemalang Regency, Central Java Province. The last activity of Mount Slamet was in March 2014 and until early 2015 this mountain was still on alert status.\nThe climbing route of Mount Slamet is notoriously heavy. The ecology of Mount Slamet is mostly forest. At the foot of the mountain is a fertile plantation so that many people at the foot of Mount Slamet live well with an abundance of natural wealth. In addition to the abundant natural wealth, Mount Slamet is also known as a mountain that has a mythical background.",
+          "jalur_pendakian": "Baturaden (Purwokerto) official line\nBambangan (Purbalingga) official line\nKaliwadas (Brebes) official line\nDukuhliwung (Tegal)\nGuci (Tegal)\nKaligua (Bumiayu)",
+          "info_gunung": "Name: Mount Slamet\nAltitude: 3428 mdpl\nLocation: Brebes, Banyumas, Purbalingga, Tegal, and Pemalang Regencies (Central Java)\nType: Stratovolcano Volcano\nLast eruption: 2014\nSource of water: Penganten well (Kaliwadas route)\nPeak : Peak Surono\nCrater: Segoro Wedi"
+        },
+        {
+          "nama": "Sumbing Mountain",
+          "image_gunung": "https://cdn.idntimes.com/content-images/community/2021/04/165979415-454802692424765-4742859987778341157-n-1-07a4f29dba4b014075e472810bb49bf0-0088385869bbfc4e3e13f19eec096df2.jpg",
+          "lokasi": "Central Java",
+          "lat": -7.3843089,
+          "lon": 110.0707907,
+          "altitude": "3371 mdpl",
+          "deskripsi": "Mount Sumbing is a volcano that has not erupted for a long time. This mountain last erupted in 1730. Mount Sumbing is located in Central Java, which is included in the districts of Magelang, Temanggung, and Wonosobo. Mount Sumbing is no longer active but at its peak there is still a crater.\nMount Sumbing has a height of 3,371 meters above sea level. The natural conditions around the foot of Mount Sumbing are very fertile so that many local people use it as a plantation.",
+          "jalur_pendakian": "Garung Line\nCeppit Parakan Line\nBowongso Line\nMangli",
+          "info_gunung": "Name: Mount Sumbing\nAltitude: 3371 mdpl\nLocation: Wonosobo, Temanggung, Magelang\nType: Volcano stratovolcano\nLast eruption: 1730\nPeak: Buntu Peak and True Peak"
+        },
+        {
+          "nama": "Ungaran Mountain",
+          "image_gunung": "https://3.bp.blogspot.com/-ppg1KhqmSwc/WJKmG8AfqJI/AAAAAAAAPZw/pIlFf3ZqgsAfc_Y9FuFj2KbBFUYGrswfgCLcB/s1600/cUpcb8tZ.jpeg",
+          "lokasi": "Central Java",
+          "lat": -7.1833418,
+          "lon": 110.3455274,
+          "altitude": "2050 mdpl",
+          "deskripsi": "Mount Ungaran is a volcano with an altitude of 2050 meters above sea level which is located in Semarang district. This mountain has three peaks: Gendol, Bald, and Ungaran. The highest peak is Ungaran.\nOn the slopes of Mount Ungaran there is an archaeological site in the form of the Gedongsongo Temple (Javanese: gedong = building, songo = nine). There are also several waterfalls (curug), including Curug Semirang and Curug Lawe. There is also a cave, known as the Japanese Cave. This cave is located 200 meters before the peak, precisely around the village of Promasan (village of tea pickers). Here there are also the ruins of an ancient bathhouse.",
+          "jalur_pendakian": "Gedong Songo Line\nJimbaran Line\nMedini/Promosan",
+          "info_gunung": "Name: Mount Ungaran\nAltitude: 2050 mdpl\nLocation: Semarang Regency (Central Java)\nType: Stratovolcanoes volcano"
+        }
+      ]
+    },
+    {
+      "lokasi": "West Java",
+      "nama_gunung": [
+        {
+          "nama": "Cikuray Mountain",
+          "image_gunung": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Mount_Cikuray_from_Cisurupan.JPG/800px-Mount_Cikuray_from_Cisurupan.JPG",
+          "lokasi": "West Java",
+          "lat": -7.3224135,
+          "lon": 107.8569654,
+          "altitude": "2821 mdpl",
+          "deskripsi": "Mount Cikuray is the fourth highest mountain in West Java after Mount Gede, Pangrango and Ciremai. Geographically, Mount Cikuray is located in the south of West Java province, precisely in Garut Regency, and is on the border of Bayongbong, Cikajang, and Dayeuh Manggung sub-districts. This mountain has a height of 2,821 mdpl (meters above sea level).\nGarut Regency is famous as a cold area and many mountain tours including Mount Cikuray. For climbers who have long vacations or climbers from outside the province, they usually climb Mount Cikuray as well as Mount Guntur or Papandayan because they are located close together.",
+          "jalur_pendakian": "Cikajang Line\nBayongbong Line\nDaeuhmanggung Line",
+          "info_gunung": "Name: Mount Cikuray\nAltitude: 2821 mdpl\nLocation: Garut Regency, West Java Province\nType: Volcano"
+        },
+        {
+          "nama": "Ciremai Mountain",
+          "image_gunung": "https://mounture.com/wp-content/uploads/2020/01/20191212_171330-01.jpeg",
+          "lokasi": "West Java",
+          "lat": -6.8932063,
+          "lon": 108.4034338,
+          "altitude": "3078 mdpl",
+          "deskripsi": "Mount Ciremai or Ceremai is one of the mountains that has a height above 3000 meters above sea level which is located in 3 districts namely Cirebon Regency, Kuningan Regency and Majalengka Regency, West Java Province. This volcano has a height of 3,078 meters above sea level. Mount Ciremai is the highest mountain in West Java. The origin of the name Ciremai or Ceremai is from a plant called Cereme, which is a type of mountain shrub.",
+          "jalur_pendakian": "Palutungan\nLinggarjati\nApuy\nPadabeunghar",
+          "info_gunung": "Name: Mount Ciremai\nAltitude: 3078 mdpl\nLocation: Cirebon, Kuningan and Majalengka\nLast eruption: 1938\nManager: Mount Ciremai National Park\nWebsite: http://tngciremai.com\nNatural spots: Forest, Savannah, Hill, Crater \nPeak: Sunan Mataram Peak"
+        },
+        {
+          "nama": "Malabar Mountain",
+          "image_gunung": "http://pendaki.id/wp-content/uploads/2019/07/Gambar-Gunung-Malabar.jpg",
+          "lokasi": "West Java",
+          "lat": -7.128601,
+          "lon": 107.632769,
+          "altitude": "2343 mdpl",
+          "deskripsi": "Mount Malabar is the name of a mountain range in the southern region of Bandung. This mountain range has several mountains. These include Mount Putang and Mount Haruman. Malabar itself is the name of one of the peaks in the Malabar Mountain range. The most famous mountain in the Malabar Mountains is Mount Haruman with a peak known as Puncak Besar. The highest point on this mountain is 2,343 meters above sea level. Its location which is included in the Bandung area makes the Malabar Mountains one of the mountains favored by climbers.",
+          "jalur_pendakian": "Mekarsari\nPuntang",
+          "info_gunung": "Name: Mount Malabar\nAltitude: 2343 mdpl\nLocation: West Java\nType: Small mountain not fire\nConditions: plantation, forest, fog\nNatural spot: plantation\nFlora: acacia trees, pine\nFauna: various kinds of birds\nSource of water : Available"
+        },
+        {
+          "nama": "Pangrango Mountain",
+          "image_gunung": "https://travelspromo.com/wp-content/uploads/2019/04/Taman-Nasional-Gunung-Gede-Pangrango.-Foto-Gmap-Abhi-Supryandi-e1556503633354.jpg",
+          "lokasi": "West Java",
+          "lat": -6.7708833,
+          "lon": 106.9599363,
+          "altitude": "3019 mdpl",
+          "deskripsi": "Mount Pangrango is a mountain located on the island of Java, Indonesia. Mount Pangrango has a height of 3,019 meters above sea level. The peak is called Peak Mandalawangi. The peak of Mandalawangi is also the meeting point of the boundaries of three regencies, namely Bogor Regency, Cianjur Regency and Sukabumi Regency. Mount Pangrango is the second highest mountain in West Java after Mount Ceremai. Mount Pangrango is located right next to Mount Gede and is in the Gede Pangrango National Park area.",
+          "jalur_pendakian": "Cibodas Trail\nMount Putri Trail\nSelabintana Trail",
+          "info_gunung": "Name: Gunung Gede\nAltitude: 3019 mdpl\nLocation: Bogor, Cianjur, Sukabumi, West Java\nSource of water: blue lake, hot springs, solar alun-alun Kencana\nType: Stratovolcano (active)"
+        },
+        {
+          "nama": "Papandayan Mountain",
+          "image_gunung": "https://indonesiakaya.com/wp-content/uploads/2020/10/1__IMG_9388_Kawasan_Hutan_Mati_merupakan_salah_satu_bagian_eksotis_dari_Gunung_Papandayan.jpg",
+          "lokasi": "West Java",
+          "lat": -7.3190968,
+          "lon": 107.7276874,
+          "altitude": "2665 mdpl",
+          "deskripsi": "Mount Papandayan is located in Cisurupan District, Garut Regency, West Java. On this mountain there are several famous craters, including New Crater, Mas Crater, Nangklak Crater, and Manuk Crater. Mount Papandayan has a diversity of flora and fauna such as edelweiss, puspa, suagi tree, pangolin, deer, langur, and others. This mountain has a crater which is quite hot for the body, but the hot crater does not reduce the number of visitors who want to visit Mount Papandayan. The area that attracts the most tourists is the Papandayan Crater. In the crater there are holes that can produce unique sounds. The mountain, which has erupted several times, has a height of 2,665 meters or 8,740 feet.",
+          "jalur_pendakian": "Cisurupan\nPangalengan",
+          "info_gunung": "Name: Mount Papandayan\nAltitude: 2665 mdpl\nLocation: West Java\nType: Mount Stratovolcano"
+        },
+        {
+          "nama": "Salak Mountain",
+          "image_gunung": "https://imgsrv2.voi.id/ouC3N0Qug2QKl_2MhGzDaFbagCbRkXWYuhpwouOTeKw/auto/1200/675/sm/1/bG9jYWw6Ly8vcHVibGlzaGVycy8zNDQwNy8yMDIxMDIyMDE1NDUtbWFpbi5qcGc.jpg",
+          "lokasi": "West Java",
+          "lat": -6.7160803,
+          "lon": 106.7306358,
+          "altitude": "2221 mdpl",
+          "deskripsi": "Mount Salak is a dream mountain for those who truly have the soul of a true climber. This mountain is so challenging because it is very famous for its mystical atmosphere. It takes guts to climb to this mountain.\nMount Salak is located between Sukabumi and Bogor Regencies. This mountain is part of the Mount Halimun-Salak National Park. The name of this mountain itself comes from Sanskrit which means silver. Although not too high (2,221 meters above sea level), climbing Mount Salak is known to be quite difficult because the terrain is not friendly for climbers. One of the climbing routes to Mount Salak is through the Cidahu route, Sukabumi. The hiking trail to Mount Salak will pass several tombs that are said to be quite sacred if you want to climb to Mount Salak make sure the preparation is really maximum.",
+          "jalur_pendakian": "Cidahu\nCuruk Nangka\nCimelati",
+          "info_gunung": "Name: Mount Salak\nAltitude: 2221 mdpl\nLocation: West Java\nType: Active Mountain\nConditions: plantation, forest, fog\nNatural spots: plantation\nFlora: acacia trees, pines\nFauna: many kinds of birds\nWater source: Available"
+        }
+      ]
+    },
+    {
+      "lokasi": "Outside of Java",
+      "nama_gunung": [
+        {
+          "nama": "Agung Mountain",
+          "image_gunung": "https://phinemo.com/wp-content/uploads/2017/09/gunung-agung.jpg",
+          "lokasi": "Outside of Java",
+          "lat": -8.3433238,
+          "lon": 115.5039886,
+          "altitude": "3031 mdpl",
+          "deskripsi": "Mount Agung is the highest mountain on the island of Bali with an altitude of 3,031 meters above sea level. This mountain is located in the district of Rendang, Karangasem regency, Bali, Indonesia. Besakih Temple, which is one of the most important temples in Bali, is located on the slopes of this mountain.\nGunung Agung is a stratovolcano type volcano, this mountain has a very large and very deep crater that sometimes emits smoke and water vapor. From Besakih Temple this mountain appears with a perfectly pointed cone, but actually the peak of this mountain is elongated and ends in a circular and wide crater.",
+          "jalur_pendakian": "Selat District\nBudakeling\nBesakih Temple",
+          "info_gunung": "Name: Mount Agung\nAltitude: 3031 mdpl\nLocation: Bali\nType: Mount Stratovolcano"
+        },
+        {
+          "nama": "Jaya Wijaya Mountain",
+          "image_gunung": "https://ksmtour.com/media/images/articles/puncak_jaya__sudirman_range__papua__indonesia.jpg",
+          "lokasi": "Outside of Java",
+          "lat": -4.0839998,
+          "lon": 137.184683,
+          "altitude": "4884 mdpl",
+          "deskripsi": "Puncak Jaya is a peak that is part of the Sudirman line in the province of Papua, Indonesia. Puncak Jaya has an altitude of 4,884 meters above sea level and around it is the Carstensz glacier, the only tropical glacier in Indonesia, which is likely to disappear soon due to global warming.\nThis peak is the highest mountain in Indonesia in the Oceania region. Puncak Jaya is one of the seven peaks of the world.",
+          "jalur_pendakian": "Sugapa\nIlaga",
+          "info_gunung": "Name: Mount Jaya Wijaya\nAltitude: 4884 mdpl\nLocation: Papua\nType: Mountain"
+        },
+        {
+          "nama": "Kerinci Mountain",
+          "image_gunung": "https://phinemo.com/wp-content/uploads/2017/07/Makhluk-kaki-terbalik-Gunung-Kerinci.jpg",
+          "lokasi": "Outside of Java",
+          "lat": -1.6993189,
+          "lon": 101.2617267,
+          "altitude": "3805 mdpl",
+          "deskripsi": "Mount Kerinci (also spelled Kerintji, and known as Mount Gadang, Kurinci Volcano, Kerinchi, Korinci, or Puncak Indrapura) is the highest mountain in Sumatra, the highest volcano in Indonesia, and the highest peak in Indonesia outside of Papua. Mount Kerinci is located in Jambi Province which borders the province of West Sumatra, in the Bukit Barisan Mountains, near the west coast, and is located about 130 km south of Padang. This mountain is surrounded by dense forest of Kerinci Seblat National Park and is a habitat for Sumatran tigers and Sumatran rhinos.",
+          "jalur_pendakian": "Kersik Tuo",
+          "info_gunung": "Name: Mount Kerinci\nAltitude: 3805 mdpl\nLocation: Sumatra\nType: Volcano"
+        },
+        {
+          "nama": "Latimojong Mountain",
+          "image_gunung": "https://assets-a1.kompasiana.com/items/album/2019/07/14/1-5d2ab341097f36583546ab92.jpg",
+          "lokasi": "Outside of Java",
+          "lat": -3.4450112,
+          "lon": 120.0709216,
+          "altitude": "3478 mdpl",
+          "deskripsi": "Mount Latimojong is the name of a mountain in Enrekang Regency, South Sulawesi, Indonesia. Mount Latimojong is in the middle of South Sulawesi. Most of these mountains are located in the area of ​​Enrekang Regency.\nMount Latimojong is the highest mountain in South Sulawesi with an altitude of 3,478 meters, the peak of which is Rante Mario.",
+          "jalur_pendakian": "Rante Lemo\nKarangan",
+          "info_gunung": "Name: Mount Latimojong\nAltitude: 3478 mdpl\nLocation: Sulawesi\nType: Non-Active Mountain"
+        },
+        {
+          "nama": "Rinjani Mountain",
+          "image_gunung": "https://www.goodnewsfromindonesia.id/uploads/post/large-sebelum-menaiki-gn-rinjani-yuk-baca-ini-dulu1474951563.jpg",
+          "lokasi": "Outside of Java",
+          "lat": -8.4125315,
+          "lon": 116.4559529,
+          "altitude": "3726 mdpl",
+          "deskripsi": "Mount Rinjani is a mountain located on the island of Lombok, West Nusa Tenggara. The mountain which is the second highest volcano in Indonesia with an altitude of 3,726 m above sea level is a favorite mountain for Indonesian climbers because of its beautiful scenery. This mountain is part of the Mount Rinjani National Park which has an area of ​​about 41,330 ha and it will be proposed to increase it to 76,000 ha to the west and east.",
+          "jalur_pendakian": "Senaru\nSembalun Lawang",
+          "info_gunung": "Name: Mount Rinjani\nAltitude: 3726 mdpl\nLocation: Lombok, NTB.\nType: Volcano"
+        },
+        {
+          "nama": "Tambora Mountain",
+          "image_gunung": "https://www.kobarksb.com/wp-content/uploads/2012/11/Gunung-Tambora-1.jpg",
+          "lokasi": "Outside of Java",
+          "lat": -8.2480448,
+          "lon": 117.989857,
+          "altitude": "2850 mdpl",
+          "deskripsi": "Mount Tambora (or Tomboro) is an active stratovolcano located on the island of Sumbawa, Indonesia. This mountain is located in two regencies, namely Dompu Regency (part of the foot of the south side to the northwest, and Bima Regency (part of the slopes of the south to the northwest, and the foot to the top of the east to the north), West Nusa Tenggara Province.\nThis mountain is located both on the north and south sides of the oceanic crust. Tambora was formed by the subduction zone beneath it. This increased the height of Tambora to 4,300 m[2] which made this mountain once one of the highest peaks in the archipelago and drained the large magma chamber within this mountain. It took a century to replenish the magma chamber.",
+          "jalur_pendakian": "Tambora Village\nDoropeti Village\nSorotatanga Village",
+          "info_gunung": "Name: Mount Tambora\nAltitude: 2850 mdpl\nLocation: Bima, NTB.\nType: Mount Stratovolcano"
+        }
+      ]
+    }
+  ]
+}
